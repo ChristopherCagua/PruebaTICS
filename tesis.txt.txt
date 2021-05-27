@@ -2,3 +2,5 @@ Marco teórico - por hacer
 Objetivos - por hacer
 
 Mi tema trata sobre el desarrollo de un sistema para el manejo de notas del colegio
+
+estamos en la rama "desarrollo"
